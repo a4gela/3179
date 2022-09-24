@@ -1,0 +1,28 @@
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.red {
+    color:red;
+}
+
+.green {
+    color:green;
+}
+
+.fontsize {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
